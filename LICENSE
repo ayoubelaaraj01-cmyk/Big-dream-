@@ -26,3 +26,34 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+https://github.com/ayoubelaaraj01-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ayoub El Aaraj - CV</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Ayoub El Aaraj</h1>
+    <p><strong>Location:</strong> Marrakech, Massira 3</p>
+    <p><strong>Phone:</strong> 0708248787</p>
+    <p><strong>Email:</strong> ayoubelaaraj01@gmail.com</p>
+    <hr />
+    <h2>🎓 Education</h2>
+    <p>Diploma from Ibn Zohr University - Agadir</p>
+
+    <h2>🌍 Languages</h2>
+    <ul>
+      <li>Arabic (Native)</li>
+      <li>English (B2)</li>
+      <li>French (Basic)</li>
+    </ul>
+
+    <h2>✈️ Job Interests</h2>
+    <p>Looking to work in an airline company or transportation company (like CTM).</p>
+  </div>
+</body>
+</html>
